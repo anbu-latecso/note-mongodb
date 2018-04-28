@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
 
-## [Introduction](introduction.md)
+## [Introduction](introductions.md)
 ## [Installation](installation.md)
 ## [Commands](commands.md)
