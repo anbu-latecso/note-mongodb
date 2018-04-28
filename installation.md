@@ -1,4 +1,4 @@
-# Node.jsMongoDB
+# MongoDB
 
 One of the most popular NoSQL database is MongoDB.
 
